@@ -34,7 +34,7 @@ var spamFilter = (function () {
     'success-seo.com|superiends.org|susanholtphotography.com|taihouse.ru|tastyfoodideas.com|tattooha.com|teastory.co|tedxrj.com|thecoral.com.br|theguardlan.com|thepokertimer.com|tomck.com|torture.ml|touchmods.fr|toyota.7zap.com|trafficmonetizer.org',
     'trion.od.ua|twincitiescarservice.com|uasb.ru|uni.me|urlopener.blogspot.com.au|uzungil.com|vapmedia.org|video--production.com|video-woman.com|videofrost.(com|net)|videos-for-your-business.com|viel.su|viktoria-center.ru|vodaodessa.com|vodkoved.ru',
     'web-betting.ru|webmaster-traffic.com|webmonetizer.net|website-errors-scanner.com|websites-reviews.com|websocial.me|williamrobsonproperty.com|wmasterlead.com|ykecwqlixx.ru|youporn-forum.(ga|uni.me)|youporn-ru.com|youtubedownload.org|yurgorod.ru',
-    'zastroyka.org|zazagames.org|zverokruh-shop.cz'
+    'zastroyka.org|zazagames.org|zverokruh-shop.cz|lifehacker.com|lifehacĸer.com'
   ];
 
   // Declare utility variables
